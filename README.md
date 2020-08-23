@@ -19,4 +19,4 @@ Reducir el espacio de búsqueda de las diferencias encontradas en la imagen. Se 
 
 La imagen de entrada fue obtenida de los desafíos de encontrar las 7 diferencias de la imagen por **Espacio de arte UTN Mdz**.
 
-La obra pertenece a **Juanpa Santucci**.
+La obra de la muestra se llama **"Portales" de Juan Pablo Santucci**, expuesta en 2017.
